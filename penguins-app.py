@@ -5,9 +5,9 @@ import pickle
 import base64
 from PIL import Image
 from sklearn.ensemble import RandomForestClassifier
-image = Image.open('Salesforce.jpg')
+#image = Image.open('Salesforce.jpg')
 
-st.image(image, width=150)
+#st.image(image, width=150)
 st.write("""
 # Penguin Prediction App
 This app predicts the **Palmer Penguin** species!
