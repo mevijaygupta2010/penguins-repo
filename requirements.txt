@@ -1,3 +1,4 @@
 streamlit
 Cython
 numpy
+pandas
