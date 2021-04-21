@@ -2,3 +2,4 @@ streamlit
 Cython
 numpy
 pandas
+scikit-learn
